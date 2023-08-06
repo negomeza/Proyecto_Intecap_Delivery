@@ -12,9 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyLogin"
         tools:targetApi="31">
-        <meta-data
-            android:name="com.google.android.maps.v3.API_KEY"
-            android:value="AIzaSyAWA-Sv9b3Z90-0zDlTnLGTsWQsT01phkQ" />
         <activity
             android:name=".MapActivity"
             android:exported="false" />
